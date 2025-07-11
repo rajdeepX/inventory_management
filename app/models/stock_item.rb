@@ -1,0 +1,3 @@
+class StockItem < ApplicationRecord
+  
+end
